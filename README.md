@@ -18,4 +18,10 @@ it will only encrypt the level that your path leads too. \
 If this is a wanted feature please create an issue!**
 
 ---
+
+## Installer Wizard:
+**If the installer wizard doesn't work, please create an Issue!** 
+
+---
+
 Developed By: **Henry Dewsnap**
