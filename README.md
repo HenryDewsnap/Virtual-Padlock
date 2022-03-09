@@ -12,4 +12,10 @@ __Virtual Padlock is a simple file encryption software developed to be accessabl
 5.) **[IMPORTANT]** **Remember your encryption key**, without this your files are lost. 
 
 ---
+## Note:
+**When encrypting a directory it will not go into any deeper directorys, \
+it will only encrypt the level that your path leads too. \
+If this is a wanted feature please create an issue!**
+
+---
 Developed By: **Henry Dewsnap**
